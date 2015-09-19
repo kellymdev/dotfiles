@@ -70,8 +70,9 @@ alias ls='ls -Gh'
 # Force grep to always use the color option and show line numbers
 export GREP_OPTIONS='--color=always'
 
-# Set sublime as the default editor
-which -s subl && export EDITOR="subl --wait"
+# Set Sublime Text as the Default Editor
+alias subl="'/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl'"
+export EDITOR="subl"
 
 # Useful aliases
 
