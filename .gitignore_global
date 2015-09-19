@@ -1,22 +1,7 @@
-# Any files matching the search terms in this file will be ignored by git
-
-# .DS_Store holds information about the current folder for OSX
 .DS_Store
-
-# Backup files created by vim
 .swp
-
-# *.sqlite3 are local databases.  Make your own, don't share
 *.sqlite3
-
-# .Spotlight-V100 holds spotlight index files
 .Spotlight-V100
-
-# .Trashes holds disk specific trash folders
 .Trashes
-
-# database.yml is the configuration file for the Rails database
 database.yml
-
-#.log ignores log files
 .log
